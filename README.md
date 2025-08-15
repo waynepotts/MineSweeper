@@ -1,3 +1,5 @@
+This project was deveoped in Unreal 5.6, if you have any trouble opening the project please feel free to contact me at waynepotts@outlook.dk
+
 This is a version of Mine Sweeper that is played to in the Unreal Editor. I've coded it for flexibility over performance because I feel its more import to be able to add new things that worry how many clock pulses we're using to traverse a hash map compared to an array.
 
 Good things about this implmentation
